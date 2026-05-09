@@ -78,17 +78,7 @@ Passionate about building intelligent systems and creating impactful solutions t
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sged00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sged00&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sged00&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -128,13 +118,6 @@ Passionate about building intelligent systems and creating impactful solutions t
 
 ---
 
-<div align="center">
-
-## 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=Sged00&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
 
 ---
 
